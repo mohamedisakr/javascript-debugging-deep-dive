@@ -29,7 +29,7 @@
   },
   "devDependencies": {
     "dns": "0.2.2",
-    "gulp": "3.9.1",
+    "gulp": "4.0.2",
     "gulp-nodemon": "^2.5.0",
     "gulp-sass": "4.0.1",
     "gulp-util": "3.0.8",
